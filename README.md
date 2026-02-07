@@ -1,5 +1,6 @@
 # Data Professional Survey Breakdown 📊
 
+![Power BI Dashboard Screenshot](screenshots/Screenshot%20(566).png)
 
 
 ---
