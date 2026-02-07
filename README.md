@@ -106,10 +106,6 @@ The complete workflow includes **data cleaning with Power Query, exploratory ana
 - Dataset may be biased toward certain regions and roles  
 - Currency assumed to be USD  
 
----
-
-## 🤝 Get in Touch
-For feedback, suggestions, or collaboration, feel free to connect on **LinkedIn** or raise an issue in this repository.
 
 ---
 
